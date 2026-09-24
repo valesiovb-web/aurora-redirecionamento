@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://aurora-pro-flow.lovable.app/", "permanent": false },
+    { "source": "/:path*", "destination": "https://aurora-pro-flow.lovable.app/:path*", "permanent": false }
+  ]
+}
